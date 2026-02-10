@@ -19,7 +19,7 @@ int main(){
     printf("Enter your DA : ");
     scanf("%f",&DA);
 
-    printf("Gross salary TA :");
+    printf("Enter your TA :");
     scanf("%f",&TA);
 
 
@@ -30,3 +30,4 @@ int main(){
 
     return 0;
 }
+
